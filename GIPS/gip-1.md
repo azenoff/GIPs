@@ -10,7 +10,7 @@ updated: 2020-07-13
 
 ## What is an GIP?
 
-GIP stands for GEB Improvement Proposal. It has been adapted from the EIP (Ethereum Improvement Proposal) and the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to the GEB framework are transparent and well governed. A GIP is a design document providing information to the Reflexer community about a proposed change to GEB. The author is responsible for building consensus within the community and documenting dissenting opinions.
+GIP stands for GEB Improvement Proposal. It has been adapted from the [EIP] (Ethereum Improvement Proposal) and the [SIP] (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to the GEB framework are transparent and well governed. A GIP is a design document providing information to the Reflexer community about a proposed change to GEB. The author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## GIP Rationale
 
