@@ -22,7 +22,7 @@ A GIP must meet certain minimum criteria. It must be a clear and complete descri
 
 ## GIP Work Flow
 
-Parties involved in the process are the *author*, the [*GIP editors*](#gip-editors), the core team and the Reflexer community.
+Parties involved in the process are the *author*, the [*GIP editors*](#gip-editors), the [core team] and the Reflexer community.
 
 :warning: Before you begin, vet your idea, this will save you time. Ask the Reflexer community first if an idea is original to avoid wasting time on something that will be rejected based on prior research (searching the Internet does not always do the trick). It also helps to make sure the idea is applicable to the entire community and not just the author. Just because an idea sounds good to the author does not mean it will have the intend effect. The appropriate public forum to gauge interest around your GIP is [the Reflexer Discord].
 
@@ -38,9 +38,9 @@ Each status change is requested by the GIP author and reviewed by the GIP editor
 
 * **Last Call** -- If agreeable, GIP editor will assign the GIP a number (generally the issue or PR number related to the GIP) and merge your pull request. The GIP editor will not unreasonably deny a GIP. Proposed GIPs will be discussed on community calls and in Discord. If there is a reasonable level of consensus around the change on the community call the change will be moved to approved. If the change is contentious the final decision may be delayed until the first GEB is launched on mainnet Ethereum.
 
-* **Approved** -- This GIP has passed community governance and is now being debated by the core team.
+* **Approved** -- This GIP has passed community governance and is now being debated by the [core team].
 
-* **Delayed** -- This GIP will be re-analyzed after the core team deploys the first GEB on mainnet Ethereum.
+* **Delayed** -- This GIP will be re-analyzed after the [core team] deploys the first GEB on mainnet Ethereum.
 
 * **Implemented** -- This GIP has been implemented and deployed to mainnet.
 
@@ -123,7 +123,7 @@ GIPs may have a `requires` header, indicating the GIP numbers that this GIP depe
 
 ## Auxiliary Files
 
-GIPs may include auxiliary files such as diagrams. Such files must be named GIP-XXXX-Y.ext, where “XXXX” is the GIP number, “Y” is a serial number (starting at 1), and “ext” is replaced by the actual file extension (e.g. “png”).
+GIPs may include auxiliary files such as diagrams (to be added in [GIPs/assets]). Such files must be named GIP-XXXX-Y.ext, where “XXXX” is the GIP number, “Y” is a serial number (starting at 1), and “ext” is replaced by the actual file extension (e.g. “png”).
 
 ## GIP Editors
 
@@ -139,7 +139,7 @@ For each new GIP that comes in, an editor does the following:
 
 - Read the GIP to check if it is ready: sound and complete. The ideas must make technical sense, even if they don't seem likely to get to final status.
 - The title should accurately describe the content.
-- Check the GIP for language (spelling, grammar, sentence structure, etc.), markup (Github flavored Markdown) and code style
+- Check the GIP for language (spelling, grammar, sentence structure, etc.), markup (Github flavored [Markdown]) and code style
 
 If the GIP isn't ready, the editor will send it back to the author for revision, with specific instructions.
 
@@ -155,7 +155,7 @@ Many GIPs are written and maintained by developers with write access to the GEB 
 
 ## History
 
-The GIP document was derived heavily from the EIP Ethereum Improvement Proposal and SIP Synthetix Improvement Proposal documents. In many places text was simply copied and modified. Any comments about the GIP document should be directed to the GIP editors.
+The GIP document was derived heavily from the [EIP] Ethereum Improvement Proposal and [SIP] Synthetix Improvement Proposal documents. In many places text was simply copied and modified. Any comments about the GIP document should be directed to the GIP editors.
 
 July 10, 2020: GIP 1 has been drafted and submitted as a PR.
 
@@ -169,6 +169,7 @@ See [the revision history for further details](https://github.com/reflexer-labs/
 [EIP]: https://github.com/ethereum/EIPs
 [SIP]: https://github.com/Synthetixio/SIPs
 [core team]: https://github.com/orgs/reflexer-labs/people
+[GIPs/assets]: https://github.com/reflexer-labs/GIPs/tree/master/GIPS/assets
 
 ## Copyright
 
