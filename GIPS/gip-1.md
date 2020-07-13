@@ -1,5 +1,5 @@
 ---
-gip:
+gip: 1
 title: GIP Purpose and Guidelines
 status: IMPLEMENTED
 author: Stefan Ionescu (@stefanionescu)
@@ -159,14 +159,15 @@ The GIP document was derived heavily from the EIP Ethereum Improvement Proposal 
 
 July 10, 2020: GIP 1 has been drafted and submitted as a PR.
 
-See [the revision history for further details](https://github.com/reflexer-labs/), which is also available by clicking on the History button in the top right of the GIP.
+See [the revision history for further details](https://github.com/reflexer-labs/GIPs), which is also available by clicking on the History button in the top right of the GIP.
 
 ### Bibliography
 
 [the Reflexer Discord]: https://discord.gg/bRmTxxW
-[Pull request]: https://github.com/reflexer-labs/GIPs/pulls
+[pull request]: https://github.com/reflexer-labs/GIPs/pulls
 [Markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[Bitcoin's BIP-0001]: https://github.com/bitcoin/bips
+[EIP]: https://github.com/ethereum/EIPs
+[SIP]: https://github.com/Synthetixio/SIPs
 [Reflexer Engineering Team]: https://github.com/orgs/reflexer-labs/people
 
 ## Copyright
