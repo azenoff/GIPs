@@ -1,11 +1,11 @@
 ---
 gip:
 title: GIP Purpose and Guidelines
-status: DRAFT
+status: IMPLEMENTED
 author: Stefan Ionescu (@stefanionescu)
 discussions-to: https://discord.gg/bRmTxxW
 created: 2020-07-10
-updated: N/A
+updated: 2020-07-13
 ---
 
 ## What is an GIP?
@@ -163,7 +163,7 @@ See [the revision history for further details](https://github.com/reflexer-labs/
 
 ### Bibliography
 
-[The Reflexer Discord]: https://discord.gg/bRmTxxW
+[the Reflexer Discord]: https://discord.gg/bRmTxxW
 [Pull request]: https://github.com/reflexer-labs/GIPs/pulls
 [Markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [Bitcoin's BIP-0001]: https://github.com/bitcoin/bips
