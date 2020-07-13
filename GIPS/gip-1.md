@@ -123,7 +123,7 @@ GIPs may have a `requires` header, indicating the GIP numbers that this GIP depe
 
 ## Auxiliary Files
 
-GIPs may include auxiliary files such as diagrams (to be added in [GIPs/assets]). Such files must be named GIP-XXXX-Y.ext, where “XXXX” is the GIP number, “Y” is a serial number (starting at 1), and “ext” is replaced by the actual file extension (e.g. “png”).
+GIPs may include auxiliary files such as diagrams (to be added in [GIPS/assets]). Such files must be named GIP-XXXX-Y.ext, where “XXXX” is the GIP number, “Y” is a serial number (starting at 1), and “ext” is replaced by the actual file extension (e.g. “png”).
 
 ## GIP Editors
 
@@ -169,7 +169,7 @@ See [the revision history for further details](https://github.com/reflexer-labs/
 [EIP]: https://github.com/ethereum/EIPs
 [SIP]: https://github.com/Synthetixio/SIPs
 [core team]: https://github.com/orgs/reflexer-labs/people
-[GIPs/assets]: https://github.com/reflexer-labs/GIPs/tree/master/GIPS/assets
+[GIPS/assets]: https://github.com/reflexer-labs/GIPs/tree/master/GIPS/assets
 
 ## Copyright
 
