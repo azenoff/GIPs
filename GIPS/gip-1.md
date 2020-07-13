@@ -168,7 +168,7 @@ See [the revision history for further details](https://github.com/reflexer-labs/
 [Markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [EIP]: https://github.com/ethereum/EIPs
 [SIP]: https://github.com/Synthetixio/SIPs
-[Reflexer Engineering Team]: https://github.com/orgs/reflexer-labs/people
+[core team]: https://github.com/orgs/reflexer-labs/people
 
 ## Copyright
 
