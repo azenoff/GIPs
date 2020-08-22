@@ -1,6 +1,6 @@
 # GIPs
 
-GEB Improvement Proposals (GIPs) describe standards for the Generalized Ethereum Bonds framework, including the current implementation of RAI, future reflex bond R&D, client APIs and keeper upgrades.
+GEB Improvement Proposals (GIPs) describe standards for the GEB framework, including the current implementation of RAI, client APIs and keeper upgrades.
 
 # Contributing
 
