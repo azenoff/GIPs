@@ -42,7 +42,7 @@ This is where you explain the reasoning behind how you propose to solve the prob
 
 ### Technical Specification
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Reflexer currently exposes or the creations of new ones.-->
-The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Reflexer currently exposes or the creations of new ones.
+The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Reflexer currently exposes or the creation of new ones.
 
 ### Test Cases
 <!--Test cases for an implementation are mandatory for GIPs but can be included with the implementation..-->
