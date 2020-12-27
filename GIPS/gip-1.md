@@ -5,7 +5,7 @@ status: IMPLEMENTED
 author: Stefan Ionescu (@stefanionescu)
 discussions-to: https://discord.gg/bRmTxxW
 created: 2020-07-10
-updated: 2020-07-13
+updated: 2020-12-27
 ---
 
 ## What is an GIP?
@@ -29,7 +29,7 @@ Parties involved in the process are the *author*, the [*GIP editors*](#gip-edito
 Your role as the champion is to write the GIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful GIP will move along:
 
 ```
-[ DRAFT ] -> [ LAST CALL ] -> [ APPROVED ] X [ DELAYED ] -> [ IMPLEMENTED ] X [ REJECTED ]
+[ DRAFT ] -> [ LAST CALL ] -> [ APPROVED ] -> [ IMPLEMENTED ] X [ REJECTED ]
 ```
 
 Each status change is requested by the GIP author and reviewed by the GIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your GIP. The GIP editors will process these requests as per the conditions below.
@@ -39,8 +39,6 @@ Each status change is requested by the GIP author and reviewed by the GIP editor
 * **Last Call** -- If agreeable, GIP editor will assign the GIP a number (generally the issue or PR number related to the GIP) and merge your pull request. The GIP editor will not unreasonably deny a GIP. Proposed GIPs will be discussed on community calls and in Discord. If there is a reasonable level of consensus around the change on the community call the change will be moved to approved. If the change is contentious the final decision may be delayed until the first GEB is launched on mainnet Ethereum.
 
 * **Approved** -- This GIP has passed community governance and is now being debated by the [core team].
-
-* **Delayed** -- This GIP will be re-analyzed after the [core team] deploys the first GEB on mainnet Ethereum.
 
 * **Implemented** -- This GIP has been implemented and deployed to mainnet.
 
@@ -75,7 +73,7 @@ Each GIP must begin with an [RFC 822](https://www.ietf.org/rfc/rfc822.txt) style
 
 ` * discussions-to:` \<a url pointing to the official discussion thread\>
 
-` status:` < DRAFT | LAST CALL | APPROVED | DELAYED | IMPLEMENTED | REJECTED >
+` status:` < DRAFT | LAST CALL | APPROVED | IMPLEMENTED | REJECTED >
 
 ` created:` <date created on>
 
